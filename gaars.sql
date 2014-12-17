@@ -7,4 +7,4 @@ begin
 end test;
 /
 
--- end test
+-- end test after removing local master
