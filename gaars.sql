@@ -5,3 +5,4 @@ create or replace procedure test as
 begin
   DBMS_OUTPUT.PUT_LINE('Hello, World!');
 end test;
+/
